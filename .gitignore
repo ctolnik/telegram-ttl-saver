@@ -1,0 +1,15 @@
+.env
+*.session
+*.session-journal
+saved/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.egg-info/
+dist/
+build/
+.probe-gh.sh
+.push-gh.sh
+*.bundle
